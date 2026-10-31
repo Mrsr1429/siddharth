@@ -12,29 +12,27 @@
 
 ## 👤 About Me
 
-```python
-class Siddharth:
-    def __init__(self):
-        self.name = "Siddharth Chauhan"
-        self.roles = ["Data Analyst", "Developer", "Explorer"]
-        self.tools = ["Python", "SQL", "Excel", "Power BI",
-                      "Pandas", "JavaScript", "HTML/CSS", "Git"]
-        self.motto = "Data tells a story. I help it speak."
-        self.status = "Exploring new fields, one project at a time"
+I'm **Siddharth Chauhan**, a data analyst and developer who enjoys turning messy, raw data into clear insights, and building applications that people can actually use. I'm still exploring different areas of tech, and I learn best by building real projects.
 
-    def what_i_do(self):
-        return "Clean data -> find patterns -> build things people can use"
-```
+> 💡 *Data tells a story. I help it speak.*
 
-## 🔍 Quick Query
+## ⚡ Quick Facts
 
-```sql
-SELECT skill, level_of_curiosity
-FROM siddharth
-WHERE passion IN ('data', 'development', 'learning')
-ORDER BY projects_built DESC;
--- 0 rows excluded. Everything is interesting. 🚀
-```
+| | |
+|---|---|
+| 🎯 **Role** | Data Analyst & Developer |
+| 🔭 **Mindset** | Always exploring new fields |
+| 📊 **Strength** | Turning data into insights |
+| 💻 **Also love** | Building useful applications |
+| 🌱 **Learning style** | Learn by building projects |
+
+## 🧭 How I Work
+
+**1. Understand** the problem and the question behind the data
+**2. Clean** and organize the information
+**3. Analyze** to find patterns and insights
+**4. Build or visualize** something people can use
+**5. Learn** from the result and repeat
 
 ## 🧰 Tech Stack
 
@@ -64,26 +62,4 @@ ORDER BY projects_built DESC;
 - 📊 Sharpening my data analysis and dashboard skills
 - 💻 Building more projects as a developer
 - 🔭 Exploring fields beyond data: always open to what's next
-- 🤝 Open to collaborating on data and development projects
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mrsr1429&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrsr1429&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chauhansiddharth951@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chauhan-siddharth-18062004s/)
-
-*"Without data, you're just another person with an opinion." 📊*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
+- 🤝 Open to
